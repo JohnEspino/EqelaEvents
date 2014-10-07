@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Ebents
+#
+
+projectname: Ebents
+vendorid: com.myEbents
+mainmodule: com.myEbents.ebents
